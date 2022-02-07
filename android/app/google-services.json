@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "802273678728",
+    "project_id": "history-of-bangladesh-8a607",
+    "storage_bucket": "history-of-bangladesh-8a607.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802273678728:android:64e8b99e537bc1c039963d",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802273678728-4hvgm3qs9hu8cv5v8lr27uipu525b0mf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl2YS3LImfjYzaAgqsUVGw9YrZMXyR-IQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802273678728-4hvgm3qs9hu8cv5v8lr27uipu525b0mf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802273678728:android:313956b81436f70839963d",
+        "android_client_info": {
+          "package_name": "com.example.history"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802273678728-4hvgm3qs9hu8cv5v8lr27uipu525b0mf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl2YS3LImfjYzaAgqsUVGw9YrZMXyR-IQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802273678728-4hvgm3qs9hu8cv5v8lr27uipu525b0mf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
